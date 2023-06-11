@@ -1,0 +1,15 @@
+C:\Users\claud\source\repos\revisao1bi\revisao1bi\bin\Debug\net6.0\revisao1bi.exe
+C:\Users\claud\source\repos\revisao1bi\revisao1bi\bin\Debug\net6.0\revisao1bi.deps.json
+C:\Users\claud\source\repos\revisao1bi\revisao1bi\bin\Debug\net6.0\revisao1bi.runtimeconfig.json
+C:\Users\claud\source\repos\revisao1bi\revisao1bi\bin\Debug\net6.0\revisao1bi.dll
+C:\Users\claud\source\repos\revisao1bi\revisao1bi\bin\Debug\net6.0\revisao1bi.pdb
+C:\Users\claud\source\repos\revisao1bi\revisao1bi\obj\Debug\net6.0\revisao1bi.csproj.AssemblyReference.cache
+C:\Users\claud\source\repos\revisao1bi\revisao1bi\obj\Debug\net6.0\revisao1bi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\source\repos\revisao1bi\revisao1bi\obj\Debug\net6.0\revisao1bi.AssemblyInfoInputs.cache
+C:\Users\claud\source\repos\revisao1bi\revisao1bi\obj\Debug\net6.0\revisao1bi.AssemblyInfo.cs
+C:\Users\claud\source\repos\revisao1bi\revisao1bi\obj\Debug\net6.0\revisao1bi.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\revisao1bi\revisao1bi\obj\Debug\net6.0\revisao1bi.dll
+C:\Users\claud\source\repos\revisao1bi\revisao1bi\obj\Debug\net6.0\refint\revisao1bi.dll
+C:\Users\claud\source\repos\revisao1bi\revisao1bi\obj\Debug\net6.0\revisao1bi.pdb
+C:\Users\claud\source\repos\revisao1bi\revisao1bi\obj\Debug\net6.0\revisao1bi.genruntimeconfig.cache
+C:\Users\claud\source\repos\revisao1bi\revisao1bi\obj\Debug\net6.0\ref\revisao1bi.dll
